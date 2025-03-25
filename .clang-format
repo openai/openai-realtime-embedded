@@ -1,9 +1,0 @@
-BasedOnStyle: Google
-IndentWidth: 2
-ColumnLimit: 80
-AllowShortFunctionsOnASingleLine: Empty
-AllowShortIfStatementsOnASingleLine: false
-AllowShortLoopsOnASingleLine: false
-BreakBeforeBraces: Attach
-DerivePointerAlignment: false
-PointerAlignment: Right
